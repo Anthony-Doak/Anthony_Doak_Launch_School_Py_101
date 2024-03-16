@@ -1,0 +1,13 @@
+given a string 
+
+given a character 
+
+set a counter to zero
+
+go through the string
+
+counter plus 1 every time we see character
+
+return index position once the counter equals two and we see the char again 
+
+return result 

@@ -1,0 +1,32 @@
+write a function that takes a list of integers, and returns a new list with every other element from the original list, starting with the first element
+
+given a list of integers 
+
+set an iterator to 0 
+
+set an empty result list 
+
+while iterator < len(list)
+
+append number in list with index at iterator to result list 
+
+iterator plus 2 (this allows us to skip a number in the list as desired)
+
+START
+
+given a list of integers 
+
+SET 
+
+iterator to 0
+empty result list 
+
+WHILE iterator < len(original_list)
+
+append number in list with index at iterator to result list 
+
+iterator plus 2 (this allows us to skip a number in the list as desired)
+
+PRINT 
+
+result list 

@@ -1,0 +1,25 @@
+write a function that takes a list of strings, and returns a string that is all those strings concatenated together
+
+given a list of strings 
+
+combine all of those strings 
+
+return result 
+
+START
+
+SET 
+
+list of strings 
+
+SET 
+
+placeholder string 
+
+FOR 
+
+iterate through list, adding string at each iteration to the placeholder string 
+
+PRINT 
+
+results of string after iterating through the list 

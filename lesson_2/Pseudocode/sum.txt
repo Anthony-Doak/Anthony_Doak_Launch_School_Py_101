@@ -1,0 +1,26 @@
+write a function that returns the sum of two numbers 
+
+Ask for two numbers 
+
+add number one to number two 
+
+return the result
+
+START
+
+GET 
+
+number1; 
+
+
+GET 
+
+number2 
+
+READ 
+
+add number1 to number2 and get a result
+
+PRINT 
+
+display result
